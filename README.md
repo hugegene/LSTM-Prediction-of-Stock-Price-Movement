@@ -1,2 +1,2 @@
 # LSTM-Prediction-of-Stock-Price-Movement
-This is the code for predicting stocks prices movement using LSTM and trading strategy based on LSTM predictions
+This is the Jupyter Notebook for predicting stocks price movements using LSTM and trading based on LSTM predictions.
